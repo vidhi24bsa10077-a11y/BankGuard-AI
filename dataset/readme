@@ -1,0 +1,11 @@
+This DroidRL dataset is exactly what you need for your fake banking APK detection project. 
+Here's why it's ideal:✅ PERFECT MATCH FOR HACKATHON REQUIREMENTSOfficial Challenge asks
+for:✅ Extract permissions, signatures, metadata → Dataset has 457 permissions extracted
+✅ Use static analysis → Dataset is pre-processed with static analysis✅ 
+Classification model for genuine vs fake → Dataset has 10,560 labeled samples
+✅ Analyze APK attributes → Dataset has permissions + intent actions + opcodes
+🏆 MAJOR ADVANTAGES1. Immediate Implementation:No APK parsing needed - features already extractedClean, labeled data - 5,000 benign + 5,560 malwareAcademic quality - peer-reviewed DroidRL research
+
+https://www.kaggle.com/datasets/limeijin/andriod-malware-detection - main dataset
+
+https://www.kaggle.com/datasets/hasanccr92/cicmaldroid-2020 - This MalDroid dataset is for validation and testing after training your model on our main dataset.
